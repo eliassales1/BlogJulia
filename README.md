@@ -1,2 +1,0 @@
-# BlogJulia
-Site advocacia Júlia
